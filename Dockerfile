@@ -1,4 +1,4 @@
-FROM node:18
+FROM node:22
 
 # install deno
 RUN curl -fsSL https://deno.land/x/install/install.sh | sh
